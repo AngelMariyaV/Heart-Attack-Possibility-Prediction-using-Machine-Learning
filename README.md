@@ -1,4 +1,4 @@
-# ❤️ Heart Attack Possibility Prediction using Machine Learning (HAPP)
+# ❤️ Heart Attack Possibility Prediction using Machine Learning 
 
 This project leverages machine learning classification algorithms to predict the likelihood of a heart attack based on patient clinical indicators and physiological data. Designed to aid early detection, the system processes healthcare metrics to evaluate and stratify patient cardiovascular risk.
 
